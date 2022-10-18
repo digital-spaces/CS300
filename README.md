@@ -12,5 +12,5 @@ I used the time-honored developer tradition of Stack Overflow and asking other d
 **How has your work on this project expanded your approach to designing software and developing programs?**
 It gave me additional experience writing pseudocode and considering various data types using objective runtime measures.
 
-##**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 I didn't really learn anything about how to IMPLEMENT programs. But see above for expanding my approach to designing software.
